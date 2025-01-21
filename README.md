@@ -34,6 +34,10 @@ Add the these lines to your `theme.toml` configuration file to use it:
 dark = "modus-vivendi"
 ```
 
+## 🎁 Contribution
+
+I’ve picked the colors from the upstream repository to suit my preferences, so I likely won’t accept PRs that change the color choices, unless they fail to meet WCAG AAA compliance. I don’t recommend using this repository directly; instead, consider it a source of inspiration.
+
 ## 📜 License
 
 Check the [LICENSE](LICENSE) and [LICENSE-tmtheme](LICENSE-tmtheme) file for more details.
